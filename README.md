@@ -6,6 +6,12 @@
 Building scalable web applications, design systems, and high-performance user interfaces.
 </p>
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react" />
