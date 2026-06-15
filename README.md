@@ -14,6 +14,7 @@
 </p>
 
 ---
+
 ## 📫 Contact
 
 <p align="center">
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
 ---
 
 ## 📦 Tech Stack
@@ -204,38 +206,17 @@
 
 ---
 
-## 💻 Code Example
+## 🎯 Current Focus
 
-<details>
-<summary><strong>Optimized Form Hook with Debouncing</strong></summary>
+- Building scalable React applications
+- Frontend Architecture (FSD)
+- Design Systems
+- Performance Optimization
+- Testing & DX
 
-```typescript
-// Custom hook for performant form handling
-interface UseOptimizedForm<T> {
-  initialData: T;
-  validationSchema: ZodSchema<T>;
-  onSubmit: (data: T) => Promise<void>;
-}
+---
 
-export function useOptimizedForm<T>({ 
-  initialData, 
-  validationSchema, 
-  onSubmit 
-}: UseOptimizedForm<T>) {
-  const form = useForm<T>({
-    resolver: zodResolver(validationSchema),
-    defaultValues: initialData,
-    mode: 'onChange',
-  });
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ravolver&theme=dark&hide_border=true" />
+</p>
 
-  const debouncedSubmit = useCallback(
-    debounce(async (data: T) => {
-      await onSubmit(data);
-    }, 500),
-    [onSubmit]
-  );
-
-  const handleSubmit = form.handleSubmit(debouncedSubmit);
-
-  return { ...form, handleSubmit };
-}
