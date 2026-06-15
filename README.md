@@ -14,6 +14,20 @@
 </p>
 
 ---
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:sssenpaisan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sssenpaisan%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Ravolver">
+    <img src="https://img.shields.io/badge/GitHub-Ravolver-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+---
 
 ## 📦 Tech Stack
 
