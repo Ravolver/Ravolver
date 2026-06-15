@@ -214,11 +214,6 @@
 - Performance Optimization
 - Testing & DX
 
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravolver&theme=dark&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph
 
