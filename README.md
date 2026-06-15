@@ -220,3 +220,7 @@
   <img src="https://streak-stats.demolab.com?user=Ravolver&theme=dark&hide_border=true" />
 </p>
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravolver&theme=github-compact&hide_border=true" />
+
