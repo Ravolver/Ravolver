@@ -1,32 +1,22 @@
 # 👋 Hi, I'm Ravil
 
-<h3 align="center">Frontend Developer | React & TypeScript Engineer | Middle+</h3>
+<h3 align="center">Frontend Developer | React & TypeScript Engineer</h3>
 
 <p align="center">
-  <em>Building scalable web applications, design systems, and high-performance user interfaces.</em>
+Building scalable web applications, design systems, and high-performance user interfaces.
+</p>
+
+<p align="center">
+  <a href="mailto:sssenpaisan@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Ravolver">GitHub</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B_Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Open_to-Remote_Work-success?style=for-the-badge" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:sssenpaisan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sssenpaisan%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Ravolver">
-    <img src="https://img.shields.io/badge/GitHub-Ravolver-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://img.shields.io/badge/Users-50K%2B-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI_Components-30%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Teams-4-purple?style=for-the-badge" />
 </p>
 
 ---
