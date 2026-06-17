@@ -279,22 +279,18 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=Ravolver&theme=midnight-purple&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake-dark.svg?width=1200" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg?width=1200" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg?width=1200" />
 </picture>
 
----
+<p align="center">
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=Ravolver&theme=midnight-purple&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+</p>
+
+
 
 ## 📫 Connect with Me
 
