@@ -280,14 +280,14 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars,prs,issues,contribs" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars,prs,issues,contribs" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-  </picture>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars,prs,issues,contribs"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&card_width=445&theme=midnight-purple&hide_border=true&langs_count=6"
+  />
 </p>
 
 ---
