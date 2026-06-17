@@ -289,9 +289,9 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake-dark.svg?width=1200" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg?width=1200" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg?width=1200" />
 </picture>
 
 ---
