@@ -281,11 +281,14 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+    <td align="center" width="33%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=midnight-purple&hide_border=true&hide=stars,prs,issues,contribs" />
     </td>
-    <td align="center" width="50%">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ravolver&theme=midnight-purple&hide_border=true" />
+    <td align="center" width="33%">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+    </td>
+    <td align="center" width="33%">
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Ravolver&theme=midnight-purple&hide_border=true" />
     </td>
   </tr>
 </table>
