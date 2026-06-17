@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React & TypeScript Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Design+Systems+%26+UI+Kits;High-load+%26+Performance;React+%26+TypeScript+Architecture&color=7B2FBE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Design+Systems+%26+UI+Kits;High-load+%26+Performance;React+%26+TypeScript+Architecture&color=7D39CA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-7B2FBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Users-50K%2B-7B2FBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI_Components-30%2B-7B2FBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Teams-4-7B2FBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-10%2B-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-7D39CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Users-50K%2B-7D39CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI_Components-30%2B-7D39CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Teams-4-7D39CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-7D39CA?style=for-the-badge" />
 </p>
 
 ---
@@ -39,24 +39,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎯_Building-React_Applications-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/🎯_Building-React_Applications-7D39CA?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📐_Architecture-Feature_Sliced_Design-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/📐_Architecture-Feature_Sliced_Design-7D39CA?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎨_Design_Systems-UI_Kits-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/🎨_Design_Systems-UI_Kits-7D39CA?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/⚡_Performance-Optimization-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/⚡_Performance-Optimization-7D39CA?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🧪_Testing-DX_Improvement-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/🧪_Testing-DX_Improvement-7D39CA?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀_Product_Teams-Technical_Leadership-7B2FBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/🚀_Product_Teams-Technical_Leadership-7D39CA?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -319,5 +319,5 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravolver&color=7B2FBE&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ravolver&color=7D39CA&style=for-the-badge" />
 </p>
