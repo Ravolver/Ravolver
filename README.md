@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | React & TypeScript Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Design+Systems+%26+UI+Kits;High-load+%26+Performance;React+%26+TypeScript+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Design+Systems+%26+UI+Kits;High-load+%26+Performance;React+%26+TypeScript+Architecture&color=7B2FBE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Users-50K%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI_Components-30%2B-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Teams-4-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-10%2B-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Users-50K%2B-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI_Components-30%2B-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Teams-4-7B2FBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-10%2B-7B2FBE?style=for-the-badge" />
 </p>
 
 ---
@@ -39,24 +39,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎯_Building-React_Applications-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/🎯_Building-React_Applications-7B2FBE?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/📐_Architecture-Feature_Sliced_Design-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/📐_Architecture-Feature_Sliced_Design-7B2FBE?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎨_Design_Systems-UI_Kits-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/🎨_Design_Systems-UI_Kits-7B2FBE?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/⚡_Performance-Optimization-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/⚡_Performance-Optimization-7B2FBE?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🧪_Testing-DX_Improvement-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/🧪_Testing-DX_Improvement-7B2FBE?style=flat-square" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🚀_Product_Teams-Technical_Leadership-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/🚀_Product_Teams-Technical_Leadership-7B2FBE?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -212,15 +212,28 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
         <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
       </p>
-      <br/>
-      <h4>📌 Featured Projects</h4>
-      <ul>
-        <li><strong>HomeCooks</strong> — E-commerce platform for homemade food</li>
-        <li><strong>Hotcakegolf</strong> — Online golf store</li>
-        <li><strong>Palosanto</strong> — Content platform with animations</li>
-        <li><strong>Mercuris</strong> — Editorial media platform</li>
-      </ul>
     </td>
+  </tr>
+</table>
+
+<h4>📌 Featured Projects</h4>
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>🍲 HomeCooks</strong></td>
+    <td width="75%">E-commerce platform for homemade food ordering</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><strong>🏌️ Hotcakegolf</strong></td>
+    <td width="75%">Online golf store with product catalog</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><strong>📰 Palosanto</strong></td>
+    <td width="75%">Content platform with GSAP & Lottie animations</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><strong>📖 Mercuris</strong></td>
+    <td width="75%">Editorial media platform</td>
   </tr>
 </table>
 
@@ -267,15 +280,19 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravolver&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravolver&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravolver&theme=github-compact&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ravolver/Ravolver/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -302,5 +319,5 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravolver&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ravolver&color=7B2FBE&style=for-the-badge" />
 </p>
