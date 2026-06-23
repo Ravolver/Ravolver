@@ -173,7 +173,7 @@ Frontend Developer with **4+ years** of commercial experience building **SPA app
 </details>
 
 <details open>
-<summary><strong>🟢 Frontend Developer — Brightlab</strong> <code>Sep 2020 — Sep 2022 · 2y 1m</code></summary>
+<summary><strong>🟢 Frontend Developer — Brightlab</strong> <code>Sep 2020 — Sep 2023 · 3y 1m</code></summary>
 
 <br/>
 
